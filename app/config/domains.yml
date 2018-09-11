@@ -2,8 +2,3 @@ domains:
     -   id: 1
         name: shopsys
         locale: en
-
-    -   id: 2
-        name: 2.shopsys
-        locale: cs
-        styles_directory: domain2

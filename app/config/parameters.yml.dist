@@ -13,7 +13,7 @@ parameters:
     mailer_user: ~
     mailer_password: ~
     mailer_disable_delivery: false
-    mailer_master_email_address: no-reply@shopsys.com
+    mailer_master_email_address: null
     mailer_delivery_whitelist: [/@shopsys\.com$/]
 
     microservice_product_search_url: 'http://microservice-product-search:8000'

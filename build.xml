@@ -39,7 +39,7 @@
 
     <property name="path.bin-console" value="bin/console"/>
 
-    <property name="is-multidomain" value="true" />
+    <property name="is-multidomain" value="false" />
 
     <if>
         <os family="windows" />
